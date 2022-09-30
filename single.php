@@ -21,7 +21,7 @@ get_header();
 		endwhile; // End of the loop.
 		?>
 
-		<nav><h3>Go back to <a href="/break the creatives">home</a> or view more <a href="/break the creatives/index.php/work/">projects</a></h3></nav>
+		<nav><h3>Go back to <a href="https://breakthecreatives.nl/index.php/home/">home</a> or view more <a href="https://breakthecreatives.nl/index.php/work/">projects</a></h3></nav>
 
 	</main><!-- #main -->
 
