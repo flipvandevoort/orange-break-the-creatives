@@ -27,9 +27,12 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
   --primary: #f34213;
   --secondary: black;
 }
+* {
+  color: var(--primary);
+  font-family: "IBM Plex Sans", sans-serif;
+}
 
 body {
-  font-family: "IBM Plex Sans", sans-serif;
   font-size: 22px;
   background-color: var(--secondary);
 }
