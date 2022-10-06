@@ -28,9 +28,9 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
   --secondary: black;
 }
 
-* {
+body {
   font-family: "IBM Plex Sans", sans-serif;
-  color: var(--primary);
+  font-size: 22px;
   background-color: var(--secondary);
 }
 
@@ -72,10 +72,6 @@ a:hover {
 }
 
 /* Responsive text sizing */
-body {
-  font-size: 22px;
-}
-
 @media (min-width: 768px) {
   body {
     font-size: 24px;
