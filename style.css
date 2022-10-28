@@ -77,13 +77,13 @@ a:hover {
 /* Responsive text sizing */
 @media (min-width: 768px) {
   body {
-    font-size: 24px;
+    font-size: 22px;
   }
 }
 
 @media (min-width: 1024px) {
   body {
-    font-size: 25px;
+    font-size: 23px;
   }
 }
 
